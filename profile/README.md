@@ -14,7 +14,7 @@ Welcome to the HL2-DINO landing page. In some of our research at the [Mechatroni
   <p align="center"><em>This project aims to enable the HL2 to track surgical tools with retroreflective markers</em></p>
 </p> 
 
-The HoloLens 2 contains a front facing time-of-flight depth-camera used for hand-tracking and spatial mapping. By using the Research Mode API, it is possible to access the underlying infared response and depth map streams for this sensor. As part of our research, we have written software to use a combination of the Research Mode API and other libaries to enable the HoloLens 2 to detect of rigid tools equipped with flat retroreflective markers. 
+The HoloLens 2 contains a front facing time-of-flight depth-camera used for hand-tracking and spatial mapping. By using the Research Mode API, it is possible to access the underlying infrared response and depth map streams for this sensor. As part of our research, we have written software to use a combination of the Research Mode API and other libraries to enable the HoloLens 2 to detect of rigid tools equipped with flat retroreflective markers. 
 
 This is a set of multiple repositories which shares the image-processing system used in our publication: [Semi-Automatic Infrared Calibration for Augmented Reality Systems in Surgery](https://ieeexplore.ieee.org/document/9982215) by Hisham Iqbal & Ferdinando Rodriguez y Baena.
 
